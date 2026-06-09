@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+.header{
+    background-color: #FF4029;
+    width: 100%;
+    height: 600px;
+}
+.logokfc{
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.headertxt{
+    display: flex;
+    gap: 30px;
+    padding-left: 700px;
+    margin-top: -30px;
+}
+.bout{
+    color: white;
+    font-weight: light;
+}
+.bout2{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.158) 5px 1px 15px 5px ;
+}
+.bigtxt{
+    margin-top: 100px;
+    margin-left: 120px;
+}
+.bucket{
+    color: white;
+    font-size: 44px;
+    font-weight: bolder;
+    line-height: 1.3;
+    padding-bottom: 13px;
+}
+.bucket2{
+    color: whitesmoke;
+    font-size: 15px;
+    line-height: 1.3;
+    font-weight: light;
+}
+.buttn1{
+    background-color: #FF4029;
+    color: white;
+    border: 3px solid white;
+    border-radius: 30px;
+    margin-top: 20px;
+    width: 180px;
+    height: 30px;
+    text-align: center;
+    padding-top: 14px;
+    font-size: 17px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.13) 5px 5px 5px 5px;
+}
+.butts4{
+    margin-top: 20px;
+}
+.basketkfc{
+    margin-left: 600px;
+    margin-top: -350px;
+}
+.basketkfc img{
+    width: 500px;
+}
+.menu{
+    text-align: center;
+}
+.men{
+    background-color: #FFC71F;
+    color: white;
+    border: none;
+    width: 140px;
+    height: 33px;
+    border-radius: 30px;
+    margin-top: -10px;
+}
+.menus{
+    margin-top: 10px;
+    text-align: center;
+}
